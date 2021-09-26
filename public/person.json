@@ -1,0 +1,212 @@
+[
+	{
+		"ID": "1",
+		"Name": "Senpai",
+		"Gender": "Male",
+		"Age": "32",
+		"Salary":"5000",
+		"Position": "Maintainenc",
+		"Color": "Black",
+        "img":"https://merriam-webster.com/assets/mw/images/article/art-wap-article-main/girl-noticing-senpai-2184-59f2b40463ccc6a8b4be08486f76b29e@1x.jpg"
+	},
+	{
+		"ID": "2",
+		"Name": "Yui Rio",
+		"Gender": "Female",
+		"Age": "21",
+		"Color": "Red",
+		"Position": "Maintainenc",
+		"Salary":"5800",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPE5leyyIGjlfD8yFGJZ77fhBjs1VGYttmWg&usqp=CAU"
+	},
+	{
+		"ID": "3",
+		"Name": "Yuna Hina",
+		"Gender": "Female",
+		"Age": "22",
+		"Color": "Yellow",
+		"Position": "Ass-Managar",
+		"Salary":"7500",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRz5AR9LhBijaGvIGblsbk0BG3qygg_8wrg&usqp=CAU"
+	},
+	{
+		"ID": "4",
+		"Name": "Koharu Hinata",
+		"Gender": "Female",
+		"Age": "21",
+		"Salary":"5550",
+		"Position": "Maintainenc",
+		"Color": "Green",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvuVXZbEKTVVToVISW2y5kcnokFI0O_ttdQ&usqp=CAU"
+	},
+	{
+		"ID": "5",
+		"Name": "Mei Mio",
+		"Gender": "Female",
+		"Age": "22",
+		"Color": "Blue",
+		"Position": "Ass-Carpenter",
+		"Salary":"5852",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYcaj3C_O8z_Ycly0JsSbJ75Wc4Xp6tXT4g&usqp=CAU"
+	},
+	{
+		"ID": "6",
+		"Name": "Saki Miyu",
+		"Gender": "Female",
+		"Age": "31",
+		"Color": "Cyan",
+		"Position": "Sr Plumber",
+		"Salary":"85400",
+        "img":"https://ih1.redbubble.net/image.1855570739.1348/ur,flat_mask_three_quarter,tall_portrait,750x1000.jpg"
+	},
+	{
+		"ID": "7",
+		"Name": "Kokona Haruka",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Purple",
+		"Position": "Carpenter",
+		"Salary":"8950",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQkF_xhyKKs80l8x22mdkz_20sdguBZHOkaUu_2IEmAXGmJ0hoYBfB5AUp18ekRnLz6A&usqp=CAU"
+	},
+	{
+		"ID": "8",
+		"Name": "Haruto Yuto",
+		"Gender": "Male",
+		"Age": "41",
+		"Color": "Red",
+		"Position": "Carpenter",
+		"Salary":"8580",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanVDfBT4cOsu7frWFmB7vSJlnKyKJfyMItg&usqp=CAU"
+	},
+	{
+		"ID": "9",
+		"Name": "Sota Yuki",
+		"Gender": "Male",
+		"Age": "19",
+		"Color": "Yellow",
+		"Position": "Maintainenc",
+		"Salary":"5980",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ekK8Y6CvNS-JccaWz4ZyYb8mu_SDyS9w6g&usqp=CAU"
+	},
+	{
+		"ID": "10",
+		"Name": "Hayato Haruki",
+		"Gender": "Female",
+		"Age": "21",
+		"Color": "Green",
+		"Position": "Ass-Plumber",
+		"Salary":"5890",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUaXNDb3QOxjYD5VyWmAKIHlP5kJZ-rwhDw&usqp=CAU"
+	},
+	{
+		"ID": "11",
+		"Name": "Ryusei Koki",
+		"Gender": "Male",
+		"Age": "22",
+		"Color": "Blue",
+		"Position": "Plumber",
+		"Salary":"5580",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHD_3Abs_52Z2R1zVKxUV0cC8I7MG2Y6ipxQ&usqp=CAU"
+	},
+	{
+		"ID": "12",
+		"Name": "Sora Sosuke",
+		"Gender": "Male",
+		"Age": "31",
+		"Color": "Cyan",
+		"Position": "GM",
+		"Salary":"15000",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOcJTPGDRzoIlgJcjw9N4VGVLrb3GrbCeYg&usqp=CAU"
+	},
+	{
+		"ID": "13",
+		"Name": "Riku Soma",
+		"Gender": "Male",
+		"Age": "32",
+		"Color": "Purple",
+		"Position": "Ass-Plumber",
+		"Salary": "5850",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHVRSP84hromznVGI2u3x2iffJ8TdIpArVQ&usqp=CAU"
+	},
+	{
+		"ID": "14",
+		"Name": "Pippi Osu",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Pippi",
+		"Position": "Ass-Maintainenc",
+		"Salary": "5000",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDPqSnSdOvr6TOshiq0seIFKwwrb7vGoWjA&usqp=CAU"
+	},
+	{
+		"ID": "15",
+		"Name": "Ryuto Ippongo",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Red",
+		"Position": "Maintainenc",
+		"Salary": "5890",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS01FJjIaxnUk5kaR6MDKOSrTDj4TAEn2mBA&usqp=CAU"
+	},
+	{
+		"ID": "16",
+		"Name": "Midori Gurin",
+		"Gender": "Female",
+		"Age": "25",
+		"Color": "Green",
+		"Position": "Managar",
+		"Salary": "9958",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcY6OYoKSOJL7jdS-54Htk5F-PFU3XG_5yw&usqp=CAU"
+	},
+	{
+		"ID": "17",
+		"Name": "Sakyu Basu",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Succubus1",
+		"Position": "Ass-Maintainenc",
+		"Salary": "5878",
+		"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_fgQcnMODKRVOkSoE5a3UAh7i3LbYSEIsw&usqp=CAU"
+	},
+	{
+		"ID": "18",
+		"Name": "Inkyu Basu",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Succubus2",
+		"Position": "A/C Technician",
+		"Salary": "8754",
+		"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGnc0wiCNR01rBF4Y0XB_xO5y3mwpZvpmZg&usqp=CAU"
+	},
+	{
+		"ID": "19",
+		"Name": "Kuu Dere",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Kuudere",
+		"Position": "Ass-Maintainenc",
+		"Salary": "5784",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgPMNo7c-PHWCrjhRgPnLX-JTAZWCwVUKmCg&usqp=CAU"
+	},
+	{
+		"ID": "20",
+		"Name": "Mai Waifu",
+		"Gender": "Female",
+		"Age": "32",
+		"Color": "Waifu",
+		"Position": "Managar",
+		"Salary": "9000",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCeylhcH9wERFAPUgxplrwER7L9GTmjf-NQ&usqp=CAU"
+	},
+	{
+		"ID": "21",
+		"Name": "Budo Masuta",
+		"Gender": "Male",
+		"Age": "32",
+		"Color": "Black",
+		"Position": "Maintainenc",
+		"Salary": "5850",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRF36fcHKFfB3dKp6vnZhL1NhPQvy1pv7z-g&usqp=CAU"
+	}
+]
