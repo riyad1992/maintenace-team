@@ -20,7 +20,6 @@ const Main = () => {
     const addMemberHandler = (member) => {
         const newMember = [...addMembers, member]
         setAddMembers(newMember)
-        console.log(newMember)
     }
     //onchange handler function
     const searchMember = event => {
